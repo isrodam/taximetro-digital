@@ -106,5 +106,5 @@ Cada mejora funcional o de arquitectura se desarrolló en una rama separada y se
 #18 - Tarifa Mínima Fija (€5.00) - Implementar una regla de negocio real: cobrar un mínimo, incluso si el cálculo por tiempo es inferior. Nivel Medio
 Creación del README - Documentación - Explicar el proceso mental y el flujo de trabajo utilizado. - Documentación 
 
-### 3. Siguientes Pasos probar lo que he aprendido en la píldora de Gabriela
-El siguiente gran objetivo es migrar la lógica del taxímetro a una interfaz web (GUI) interactiva utilizando la librería **Streamlit**, mejorando la accesibilidad del usuario final.
+### 3. Aplicación Web
+Migración de la lógica del taxímetro a una interfaz web (GUI) interactiva utilizando la librería **Streamlit**, mejorando la accesibilidad del usuario final.
